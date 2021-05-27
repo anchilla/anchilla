@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anchilla
 - 👀 I’m interested in Java programming language.
 - 🌱 I’m currently learning more about Hibernate.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any Java project which allows me to expand my knowledge.
 - 📫 How to reach me ...
 
 <!---
