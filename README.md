@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning more about Hibernate, Javascript and web design.
 - 💞️ I’m looking to collaborate on any Java project or Javascript and web design.
 - 📫 You can reach me at anabjrc@gmail.com
-- 💻 My portfolio website - ansafuvv
-
-💼
+- 💻 My portfolio website - https://portfolioanabajric.netlify.app
 
 <!---
 anchilla/anchilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
