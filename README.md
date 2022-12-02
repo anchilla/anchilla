@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anchilla
-- 👀 I’m interested in front-end development, specifically JavaScript, HTML and CSS.
-- 🌱 I’m currently learning more about jQuery.
+- 👀 I’m interested in front-end development, specifically JavaScript, HTML, CSS and jQuery.
+- 🌱 I’m currently learning more about React.
 - 💞️ I’m looking to collaborate on any JavaScript project and web design.
 - 📫 You can reach me at anabjrc@gmail.com
 - 💻 My portfolio website - https://portfolioanabajric.netlify.app
