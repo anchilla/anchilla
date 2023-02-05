@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anchilla
-- 👀 I’m a front-end developer and I work with JavaScript, HTML, CSS, jQuery and React.
+- 👀 I’m a front-end developer and I work with JavaScript, HTML, CSS, jQuery.
 - 🌱 I’m currently learning more about React.
 - 💞️ I’m looking to collaborate on any JavaScript project and web design.
 - 📫 You can reach me at anabjrc@gmail.com
